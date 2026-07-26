@@ -26,6 +26,10 @@ img{
     border-radius: 25px;
 }
 
+@media(max-width:375px;){
+    flex-wrap:wrap;
+}
+
 h4{
     text-align: right;
     color: brown;

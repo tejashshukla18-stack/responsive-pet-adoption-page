@@ -1,0 +1,32 @@
+h2{
+    color: red;
+}
+span{
+    color: red;
+}
+
+#pets{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card{
+    
+    width: 400px;
+    /* background-color: grey; */
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 25px;
+    /* display: inline; */
+}
+
+img{
+    width: 100%;
+    border-radius: 25px;
+}
+
+h4{
+    text-align: right;
+    color: brown;
+}
